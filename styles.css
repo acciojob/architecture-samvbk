@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.imageContainer{
+	width:350px;
+}
+.s{
+	width:200px;
+}
+.b{
+	width:600px;
+}
+body{
+	background-color:#50C8B0
+}
